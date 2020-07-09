@@ -1,2 +1,2 @@
 # MIPS-microprocessor-verilog
-Implementing MIPS microprocessor on FPGA using Veriliog.
+Implementing MIPS microprocessor on FPGA using Veriliog HDL.
